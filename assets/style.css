@@ -73,6 +73,7 @@ body * {
   transform: translateY(-50%);
   top: 50%;
   animation: slide-back 0.2s;
+  cursor: pointer;
 }
 .light #switch button {
   animation: slide-in 0.2s forwards;
